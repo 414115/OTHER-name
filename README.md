@@ -7,6 +7,7 @@ different ways to bypass the youtube block
 to get youtube links, look up the video you want on google and copy link
 <img width="835" height="277" alt="image" src="https://github.com/user-attachments/assets/28b03251-fc26-42ca-9cb9-16cee28db5c5" />
 <img src="blob:chrome-untrusted://media-app/17f68164-7a86-4966-8f60-6bf5dfe5d5bd" alt="Screenshot 2026-03-04 10.15.34 AM.png"/><img width="546" height="462" alt="image" src="https://github.com/user-attachments/assets/a6d7f5bd-481b-4e7e-8ada-4a22951a22ab" />
+
 then paste it.
 
 # embed tutorial
