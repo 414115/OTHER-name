@@ -1,5 +1,5 @@
 # youtube block bypass (in progress)
-# TUTORIALS FOR LINKS AND EMBED
+# TUTORIALS FOR LINKS AND EMBED (and help)
 different ways to bypass the youtube block
 
 # IMPORTANT
@@ -31,4 +31,11 @@ paste your link
 and you should be good 
 
 thanks for reading this or something
+
+# errors
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e76c41a-ac0f-45ad-81ae-30138873f213" />
+
+i'll fix this soon (if your school did this too theyre monsters)
+
 
