@@ -1,4 +1,4 @@
-# OTHER-name
+# youtube block bypass (in progress)
 # TUTORIALS FOR LINKS AND EMBED
 different ways to bypass the youtube block
 
