@@ -34,7 +34,8 @@ thanks for reading this or something
 
 # errors
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1e76c41a-ac0f-45ad-81ae-30138873f213" />
+<img src="blob:chrome-untrusted://media-app/f23c1dc7-c336-4029-86fc-6783662491de" alt="Screenshot 2026-03-04 10.36.18 AM.png"/><img width="715" height="540" alt="image" src="https://github.com/user-attachments/assets/ec0c4f02-7201-4d21-b256-fdc117efb29a" />
+
 
 i'll fix this soon (if your school did this too theyre monsters)
 
